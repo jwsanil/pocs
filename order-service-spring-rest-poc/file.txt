@@ -1,0 +1,32 @@
+/*@ResponseBody
+    @RequestMapping(value = "/user_order/place")
+    public ResponseStatus placeOrder(@RequestParam("product_id") int productId, @RequestParam("quantity") int quantity) {
+
+
+        return null;
+    }
+
+    @ResponseBody
+    @RequestMapping(value = "/user_order/update")
+    public ResponseStatus updateOrder(@RequestParam("id") int id) {
+
+
+        return null;
+    }
+
+    @ResponseBody
+    @RequestMapping(value = "/user_order/get")
+    public UserOrder getOrder(@RequestParam("id") int id) {
+
+
+        return null;
+    }
+
+    @ResponseBody
+    @RequestMapping(value = "/user_order/list")
+    public List<UserOrder> listOrder() {
+        List<UserOrder> userOrderList = null;
+        return userOrderList;
+    }
+
+*/
